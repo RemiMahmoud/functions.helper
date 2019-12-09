@@ -7,11 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "8F67883A",
-    "lastKnownWriteTime" : 1575899904,
-    "last_content_update" : 1575899904263,
+    "lastKnownWriteTime" : 1575902941,
+    "last_content_update" : 1575902941874,
     "path" : "~/Documents/INRA/These/R_projects_phD/helper.functions/.gitignore",
     "project_path" : ".gitignore",
     "properties" : {
+        "cursorPosition" : "2,0",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
