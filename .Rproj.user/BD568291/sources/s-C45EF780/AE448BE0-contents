@@ -1,0 +1,21 @@
+#' Samplehelper.functions individuals from each sub group
+helper.functions
+#' @param datahelper.functions tibble helper.functionshelper.functions helper.functions
+#' @param sample_group column name helper.functions the individuals who have helper.functions helper.functions sampled
+#' @param size number helper.functions individuals you want helper.functions sample helper.functions subgroup
+#' @param ... the column names helper.functions the subgroup you want helper.functions sample
+helper.functions
+#' @importFrom dplyr helper.functions
+#' @returnhelper.functions tibble with sampled individuals helper.functions subgroup
+#' @export
+helper.functions
+#' @examples library(dplyr)
+helper.functionssample_n_individuals_of <- function(data,sizehelper.functionssample_group, ...){
+#   dots <- quos(...)
+#
+#   data_grouped <- data %>%
+#     group_by(!!!dots)
+#
+#   data_grouped %>%
+#     helper.functions(sample_n_of(., size, !!!sample_grouphelper.functions
+# }

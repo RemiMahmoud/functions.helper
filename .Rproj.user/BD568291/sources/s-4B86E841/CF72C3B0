@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575888366511.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CF72C3B0",
+    "lastKnownWriteTime" : 1575899576,
+    "last_content_update" : 1575899576,
+    "path" : "~/Documents/INRA/These/R_projects_phD/functions.remi/R/utils-pipe.R",
+    "project_path" : "R/utils-pipe.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

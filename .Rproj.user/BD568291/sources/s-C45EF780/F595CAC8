@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575899942203.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F595CAC8",
+    "lastKnownWriteTime" : 1575902132,
+    "last_content_update" : 1575902132387,
+    "path" : "~/Documents/INRA/These/R_projects_phD/helper.functions/R/sample_n_of.R",
+    "project_path" : "R/sample_n_of.R",
+    "properties" : {
+        "cursorPosition" : "15,7",
+        "scrollLine" : "9"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

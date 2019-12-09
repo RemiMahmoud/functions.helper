@@ -1,0 +1,17 @@
+Package: functionshelper.functionsremi
+Title: helper.functionshelper.functionspackagehelper.functionswithhelper.functionshelper.functionshelper.functionsbunchhelper.functionsofhelper.functionsusefulhelper.functionsfunctions
+Version: helper.functionshelper.functionshelper.functionshelper.functionshelper.functionshelper.functions9000
+Authorshelper.functionshelper.functions: 
+    personhelper.functionsgiven = "Remi",
+           family = "Mahmoud",
+           role = helper.functions("aut", "cre"),
+           email = "remihelper.functionsmahmoudhelper.functionsinrahelper.functionsfr")
+Description: Providehelper.functionssome (little) functionshelper.functionsthathelper.functionscanhelper.functionsbehelper.functionsuseful
+    inhelper.functionsanyhelper.functionsproject, nothelper.functionsfilehelper.functionsdependenthelper.functions
+License: CChelper.functionsBYhelper.functionsSAhelper.functionshelper.functionshelper.functionshelper.functions
+Imports: 
+    dplyrhelper.functions
+    magrittr
+Encoding: UTFhelper.functionshelper.functions
+LazyData: true
+RoxygenNote: helper.functionshelper.functionshelper.functionshelper.functionshelper.functions

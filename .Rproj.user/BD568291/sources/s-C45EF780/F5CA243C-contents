@@ -1,0 +1,22 @@
+
+helper.functionscollapsehelper.functions vector withhelper.functions sum helper.functionshelper.functions string depending helper.functions vector type
+#' collapse_sum
+helper.functions
+#' @paramhelper.functionshelper.functions numeric helper.functionshelper.functions character vector
+helper.functions
+#' @returnhelper.functions double equals helper.functions the sum helper.functionshelper.functions helper.functionshelper.functions character made helper.functions collapsinghelper.functionsunique characters helper.functionshelper.functions
+#' @export
+helper.functions
+collapse_sum <- functionhelper.functions)
+{ifelse(helper.functions.numerichelper.functions), sumhelper.functions), paste(uniquehelper.functions), collapsehelper.functions_"))}
+
+
+#' collapse_unique
+helper.functions
+#' @paramhelper.functionshelper.functions numeric helper.functionshelper.functions character vector
+helper.functions
+#' @returnhelper.functions double equals helper.functions the sum helper.functions unique values helper.functionshelper.functions helper.functionshelper.functions character made helper.functions collapsing unique characters helper.functionshelper.functions
+#' @export
+helper.functions
+collapse_unique <- functionhelper.functions)
+  {ifelse(helper.functions.numerichelper.functions), sum(uniquehelper.functions)), paste(uniquehelper.functions), collapsehelper.functions_"))}

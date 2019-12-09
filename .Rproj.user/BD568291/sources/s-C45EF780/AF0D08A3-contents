@@ -1,0 +1,26 @@
+
+collapse vector with sum  string depending  vector type
+#' collapse_sum
+
+#' @param numeric  character vector
+
+#' @return double equals  the sum   character made  collapsing unique characters
+#' @export
+#' @examples
+#' collapse_sum
+#' collapse_suma", "b"))
+collapse_sum <- function)
+{ifelse(.numeric), sum), paste(unique), collapse, "_"))}
+
+
+#' collapse_unique
+helper.functions
+#' @paramhelper.functionshelper.functions numeric helper.functionshelper.functions character vector
+helper.functions
+#' @returnhelper.functions double equals helper.functions the sum helper.functions unique values helper.functionshelper.functions helper.functionshelper.functions character made helper.functions collapsing unique characters helper.functionshelper.functions
+#' @export
+#' @examples collapse_uniquehelper.functionshelper.functionshelper.functionshelper.functionshelper.functions
+#' collapse_uniquehelper.functionshelper.functionsa", "b", "b", "c"))
+helper.functions
+collapse_unique <- functionhelper.functions)
+  {ifelse(helper.functions.numerichelper.functions), sum(uniquehelper.functions)), paste(uniquehelper.functions), collapsehelper.functions_"))}

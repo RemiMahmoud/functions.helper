@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575885591139.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1C9684D",
+    "lastKnownWriteTime" : 1575885608,
+    "last_content_update" : 1575885961251,
+    "path" : "~/Documents/INRA/These/R_projects_phD/functions.remi/dev_history.R",
+    "project_path" : "dev_history.R",
+    "properties" : {
+        "cursorPosition" : "4,17",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

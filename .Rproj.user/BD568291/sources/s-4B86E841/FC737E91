@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575898950555.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FC737E91",
+    "lastKnownWriteTime" : 1575899576,
+    "last_content_update" : 1575899576,
+    "path" : "~/Documents/INRA/These/R_projects_phD/functions.remi/R/collapse_functions.R",
+    "project_path" : "R/collapse_functions.R",
+    "properties" : {
+        "cursorPosition" : "21,28",
+        "scrollLine" : "2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
