@@ -2,7 +2,8 @@
 % Please edit documentation in R/collapse_functions.R
 \name{collapse_sum}
 \alias{collapse_sum}
-\title{collapse_sum}
+\title{collapse a vector with a sum or a string depending on vector type
+collapse_sum}
 \usage{
 collapse_sum(x)
 }
@@ -13,6 +14,7 @@ collapse_sum(x)
 a double equals to the sum of x or a character made by collapsing  unique characters of x
 }
 \description{
+collapse a vector with a sum or a string depending on vector type
 collapse_sum
 }
 \examples{

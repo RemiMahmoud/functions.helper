@@ -1,5 +1,5 @@
 
-# collapse a vector with a sum or a string depending on vector type
+#' collapse a vector with a sum or a string depending on vector type
 #' collapse_sum
 #'
 #' @param x a numeric or a character vector

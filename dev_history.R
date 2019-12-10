@@ -4,6 +4,8 @@ attachment::att_to_description()
 devtools::check()
 
 usethis::use_package(c("dplyr"))
-usethis::use_package("tibble", type = "Suggests")
+usethis::use_package("tibble")
 usethis::use_pipe()
+
+
 
