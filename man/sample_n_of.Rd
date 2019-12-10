@@ -17,14 +17,14 @@ sample_n_of(data, size, ...)
 tibble with elements belonging  the sampled subgroups
 }
 \description{
-sample elements from subgroup
+Taken and adapted from https://www.tjmahr.com/sample-n-groups/
 }
 \examples{
 library(dplyr)
  mtcars \%>\% sample_n_of(2,cyl) \%>\% distinct(cyl)
 
- mtcars \%>\%
- mutate(rowid = 1:n()) \%>\%
- group_by(cyl) \%>\%
- do(sample_n_of(., 2,rowid))
+mtcars \%>\%
+mutate(rowid = 1:n()) \%>\%
+group_by(cyl) \%>\%
+do(sample_n_of(., 2,rowid))
 }

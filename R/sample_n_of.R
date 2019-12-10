@@ -5,17 +5,17 @@
 #' @param ... the column names  the subgroup you want  sample
 
 #' @importFrom dplyr group_by quos group_indices filter
-
+#' @description Taken and adapted from https://www.tjmahr.com/sample-n-groups/
 #' @return tibble with elements belonging  the sampled subgroups
 #' @export
 
 #' @examples library(dplyr)
 #'  mtcars %>% sample_n_of(2,cyl) %>% distinct(cyl)
 #'
-#'  mtcars %>%
-#'  mutate(rowid = 1:n()) %>%
-#'  group_by(cyl) %>%
-#'  do(sample_n_of(., 2,rowid))
+#' mtcars %>%
+#' mutate(rowid = 1:n()) %>%
+#' group_by(cyl) %>%
+#' do(sample_n_of(., 2,rowid))
 sample_n_of <- function(data, size,  ...) {
 dots <- quos(...)
 
@@ -23,6 +23,10 @@ group_ids <- data %>%
     group_by(!!! dots, .drop = FALSE) %>%
     group_indices
 
+if(length(unique(group_ids))< size){
+  warning(paste0("Argument size large than the population ", dots, ". Setting size to the size of the population"))
+  size <- length(unique(group_ids))
+  }
 sampled_groups <- sample(unique(group_ids), size)
 
 data %>%
