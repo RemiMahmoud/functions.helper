@@ -5,6 +5,7 @@
 #' @param ... the column names  the subgroup you want  sample
 
 #' @importFrom dplyr group_by quos group_indices filter
+#' @importFrom magrittr %>%
 #' @description Taken and adapted from https://www.tjmahr.com/sample-n-groups/
 #' @return tibble with elements belonging  the sampled subgroups
 #' @export
