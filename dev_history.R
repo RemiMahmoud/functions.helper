@@ -6,5 +6,6 @@ devtools::check()
 
 usethis::use_package(c("dplyr"))
 usethis::use_package("tibble")
+usethis::use_package("ggplot2")
 usethis::use_pipe(export = FALSE)
 
