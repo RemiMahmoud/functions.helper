@@ -5,10 +5,12 @@
 \title{collapse a vector with a sum or a string depending on vector type
 collapse_sum}
 \usage{
-collapse_sum(x)
+collapse_sum(x, collapse_character = "_")
 }
 \arguments{
 \item{x}{a numeric or a character vector}
+
+\item{collapse_character}{character to put in the collapse argument of paste function}
 }
 \value{
 a double equals to the sum of x or a character made by collapsing  unique characters of x

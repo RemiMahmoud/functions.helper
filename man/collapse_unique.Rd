@@ -4,10 +4,12 @@
 \alias{collapse_unique}
 \title{collapse_unique}
 \usage{
-collapse_unique(x)
+collapse_unique(x, collapse_character = "_")
 }
 \arguments{
 \item{x}{a numeric or a character vector}
+
+\item{collapse_character}{character to put in the collapse argument of paste function}
 }
 \value{
 a double equals to the sum of unique values of x or a character made by collapsing unique characters of x
